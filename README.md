@@ -55,7 +55,3 @@ Access the application at `http://localhost:3000`
 - Backend runs on port 5000 by default
 - Frontend runs on port 3000
 - API endpoints documented in `backend/routes/`
-
-## Contributing
-
-Pull requests welcome. Please follow existing code style and add tests for new features.
